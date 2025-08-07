@@ -8,7 +8,7 @@ This project was developed during my MERN stack learning journey, inspired by a 
 
 ## 🌐 Live Demo
 
-Check out the live version of JobNest: [https://jobnest.onrender.com](https://jobnest.onrender.com)
+Check out the live version of JobNest: [https://jobnest.onrender.com](https://jobnest-xrhg.onrender.com/)
 
 ---
 
