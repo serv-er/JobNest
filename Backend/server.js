@@ -1,6 +1,7 @@
 import app from "./app.js";
 import cloudinary from "cloudinary";
 import path from "path";
+import express from "express";
 import { fileURLToPath } from "url";
 
 // For __dirname in ES modules
